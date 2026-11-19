@@ -1,0 +1,18 @@
+{
+  "name": "my-marketplace",
+  "owner": {
+    "name": "Laz-stack"
+  },
+  "plugins": [
+    {
+      "name": "huashu-design",
+      "description": "Design skill by alchaincyf",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/alchaincyf/huashu-design.git"
+      },
+      "strict": false,
+      "skills": ["./"]
+    }
+  ]
+}
